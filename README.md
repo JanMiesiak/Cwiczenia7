@@ -1,0 +1,1 @@
+Only modified LinqTutorials class.
